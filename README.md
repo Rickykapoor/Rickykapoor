@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickykapoor
 - 👀 I’m interested in Hybrid app Development
-- 🌱 I’m currently learning nextJs
+- 🌱 I’m currently learning ML ALGOs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
